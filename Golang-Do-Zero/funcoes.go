@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainFuncoes() {
 	resultado_soma := soma(42, 13)
 	fmt.Println(resultado_soma)
 
